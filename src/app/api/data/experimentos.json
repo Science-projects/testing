@@ -900,5 +900,48 @@
     "references": [
       "asdasdasdasd"
     ]
+  },
+  {
+    "id": "1687204184560",
+    "topicGeneral": [
+      {
+        "id": 1,
+        "title": "Física",
+        "slug": "fisica"
+      }
+    ],
+    "topicSpecific": {
+      "fisica": [
+        {
+          "id": 1,
+          "title": "Física - Anatomia humana",
+          "slug": "fisica-anatomia-humana"
+        }
+      ]
+    },
+    "topicBncc": [
+      {
+        "id": 10,
+        "title": "Matéria e energia - Ciclo hidrológico",
+        "slug": "materia-e-energia-ciclo-hidrologico"
+      }
+    ],
+    "profileName": "sadda",
+    "postDate": "19 de junho de 2023 às 15:49 horário local.",
+    "title": "asddas",
+    "slug": "asddas",
+    "imagePreview": "",
+    "description": "",
+    "literature": "",
+    "objectives": [],
+    "materials": [],
+    "methods": [],
+    "methodsImages": [],
+    "results": "",
+    "scientificExplanation": "",
+    "references": [
+      "agaggg",
+      "agaggg"
+    ]
   }
 ]
