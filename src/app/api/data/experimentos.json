@@ -900,5 +900,30 @@
     "references": [
       "asdasdasdasd"
     ]
+  },
+  {
+    "id": "1687819613762",
+    "topicGeneral": [],
+    "topicSpecific": [],
+    "topicBncc": [],
+    "topicLocation": [],
+    "profileName": "",
+    "postDate": "26 de junho de 2023 às 18:46 horário local.",
+    "title": "",
+    "slug": "",
+    "imagePreview": "public/images/1687819613762/img2.jpg",
+    "description": "",
+    "literature": "",
+    "objectives": [],
+    "materials": [],
+    "methods": [
+      {
+        "methodText": "123",
+        "methodImages": "public/images/1687819613762/img4.jpg"
+      }
+    ],
+    "results": "",
+    "scientificExplanation": "",
+    "references": []
   }
 ]
