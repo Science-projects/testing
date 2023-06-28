@@ -900,5 +900,46 @@
     "references": [
       "asdasdasdasd"
     ]
+  },
+  {
+    "id": "1687980487072",
+    "topicGeneral": [],
+    "topicSpecific": [],
+    "topicBncc": [],
+    "topicLocation": [],
+    "profileName": "",
+    "postDate": "28 de junho de 2023 às 15:28 horário local.",
+    "title": "",
+    "slug": "",
+    "imagePreview": "",
+    "description": "",
+    "literature": "",
+    "objectives": [],
+    "materials": [],
+    "methods": [
+      {
+        "methodText": "metodo1",
+        "methodImages": "public/images/1687980487072/tern 2.jpg"
+      },
+      {
+        "methodText": "metodo2",
+        "methodImages": "public/images/1687980487072/tern.jpg"
+      },
+      {
+        "methodText": "metodo3",
+        "methodImages": "public/images/1687980487072/img7.png"
+      },
+      {
+        "methodText": "metodo4",
+        "methodImages": "public/images/1687980487072/img4.jpg"
+      },
+      {
+        "methodText": "metodo5",
+        "methodImages": "public/images/1687980487072/zydqzg03xf061.jpg"
+      }
+    ],
+    "results": "",
+    "scientificExplanation": "",
+    "references": []
   }
 ]
