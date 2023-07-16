@@ -900,5 +900,39 @@
     "references": [
       "asdasdasdasd"
     ]
+  },
+  {
+    "id": "1689522135423",
+    "topicGeneral": [],
+    "topicSpecific": [],
+    "topicBncc": [],
+    "topicLocation": [],
+    "profileName": "",
+    "postDate": "16 de julho de 2023 às 11:42 horário local.",
+    "title": "",
+    "slug": "",
+    "imagePreview": "public/images/1689522135423/fb68e17c3bef37ddce7a1a2676ca979f.jpg",
+    "description": "",
+    "literature": "",
+    "objectives": [],
+    "materials": [],
+    "methods": [
+      {
+        "methodImages": ""
+      },
+      {
+        "methodText": "experimento 1",
+        "methodImages": "public/images/1689522135423/tern 2.jpg"
+      },
+      {
+        "methodText": "novo 123",
+        "methodImages": "public/images/1689522135423/tern.jpg"
+      }
+    ],
+    "results": "",
+    "scientificExplanation": "",
+    "observations": "",
+    "explanation": "",
+    "references": []
   }
 ]
