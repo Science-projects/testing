@@ -900,5 +900,48 @@
     "references": [
       "asdasdasdasd"
     ]
+  },
+  {
+    "id": "1689520413473",
+    "topicGeneral": [],
+    "topicSpecific": [],
+    "topicBncc": [],
+    "topicLocation": [],
+    "profileName": "",
+    "postDate": "16 de julho de 2023 às 11:13 horário local.",
+    "title": "",
+    "slug": "",
+    "imagePreview": "public/images/1689520413473/fb68e17c3bef37ddce7a1a2676ca979f.jpg",
+    "description": "novo",
+    "literature": "",
+    "objectives": [],
+    "materials": [],
+    "methods": [
+      {
+        "methodText": "passo numero 1",
+        "methodImages": "public/images/1689520413473/channels4_profile.jpg"
+      },
+      {
+        "methodText": "passo numero 2",
+        "methodImages": "public/images/1689520413473/tern 2.jpg"
+      },
+      {
+        "methodText": "passo 3",
+        "methodImages": "public/images/1689520413473/tern.jpg"
+      },
+      {
+        "methodText": "passo 4",
+        "methodImages": "public/images/1689520413473/032f9373f71ddb394c410bbc3e73b02c.png"
+      },
+      {
+        "methodText": "passo 5",
+        "methodImages": "public/images/1689520413473/Mel.jpg"
+      }
+    ],
+    "results": "",
+    "scientificExplanation": "",
+    "observations": "",
+    "explanation": "",
+    "references": []
   }
 ]
