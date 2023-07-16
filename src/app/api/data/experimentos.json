@@ -900,5 +900,36 @@
     "references": [
       "asdasdasdasd"
     ]
+  },
+  {
+    "id": "1689524229302",
+    "topicGeneral": [],
+    "topicSpecific": [],
+    "topicBncc": [],
+    "topicLocation": [],
+    "profileName": "",
+    "postDate": "16 de julho de 2023 às 12:17 horário local.",
+    "title": "",
+    "slug": "",
+    "imagePreview": "public/images/1689524229302/channels4_profile.jpg",
+    "description": "",
+    "literature": "",
+    "objectives": [],
+    "materials": [],
+    "methods": [
+      {
+        "methodText": "11 11",
+        "methodImages": "public/images/1689524229302/fb68e17c3bef37ddce7a1a2676ca979f.jpg"
+      },
+      {
+        "methodText": "22 2",
+        "methodImages": "public/images/1689524229302/tern 2.jpg"
+      }
+    ],
+    "results": "",
+    "scientificExplanation": "",
+    "observations": "",
+    "explanation": "",
+    "references": []
   }
 ]
